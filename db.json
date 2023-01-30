@@ -1,0 +1,12 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello Alina!"
+      }
+    ],
+    "profile": {
+      "name": "Alina",
+      "avatar": "https://mirpozitiva.ru/wp-content/uploads/2019/11/1472042492_01-1024x640.jpg"
+    }
+  }
